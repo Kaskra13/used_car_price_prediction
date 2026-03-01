@@ -86,7 +86,7 @@ These three features account for 88.1% of the model's decision-making process.
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/Kaskra13/used_car_price_prediction
+git clone https://github.com/Kaskra13/used_car_price_prediction used-car-price-prediction
 cd used-car-price-prediction
 
 # Install required packages
